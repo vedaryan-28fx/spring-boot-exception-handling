@@ -10,7 +10,7 @@ A Spring Boot web application demonstrating how to centrally manage exceptions u
 ## Technologies Used
 * Java
 * Spring Boot (Web MVC)
-* Thymeleaf
+
 
 ## How to Test
 Run the application and navigate to the following endpoints in your browser:
